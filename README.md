@@ -1,2 +1,5 @@
 # Airline-Delay-Analysis-Using-Statistical-Methods
 Statistical analysis of U.S. airline delays using t-tests, ANOVA, ANCOVA, and logistic regression to examine seasonal patterns, airport traffic, and factors influencing delay severity and likelihood.
+# Airline Delay Analysis is a statistical analysis project examining patterns and factors associated with U.S. domestic airline delays. The project uses monthly airline–airport delay data, including total flights and delays attributed to weather, carrier operations, NAS, security, and late-arriving aircraft.
+
+# The analysis applies statistical methods including two-sample t-tests, one-way ANOVA, ANCOVA, and logistic regression to compare airlines, investigate seasonal differences, evaluate the relationship between airport traffic and delays, and identify factors associated with delay occurrence. The results highlight significant differences in delays across seasons and airport traffic levels while also demonstrating challenges with logistic regression caused by data imbalance and complete separation.
